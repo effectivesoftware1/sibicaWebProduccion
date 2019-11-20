@@ -1,0 +1,6 @@
+Actividades SIBICA
+
+1. Migrar lo que se encuentra en la web SIBICA, al framework codeigniter y arcgis (map). [30 DIAS]
+2. Realizar modulo de usuarios con roles por tablas y campos. [15 DIAS]
+3. Realizar modulo de panorama de riesgos, con tareas y el seguimiento de estas (actividades realizadas a las tareas). [30 DIAS]
+4. Realizar el modulo de reportes con exportación a excel y pdf. [15 DIAS]
