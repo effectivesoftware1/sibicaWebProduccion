@@ -1,0 +1,37 @@
+	#encabezado {padding:-13px 0; border-bottom: 1px solid; width:100%;margin:auto;}
+	#encabezado .fila #col_1 #col_3 {width: 15%; text-align: left;}
+	#encabezado .fila #col_2 {text-align:left; width: 65%}
+
+	#encabezado .fila #col_2 #span1{font-size: 15px;}
+	#encabezado .fila #col_2 #span2{font-size: 15px; color: #ccc;}
+
+	#footer {padding-bottom:5px 0;border-top: 1px solid; width:100%; margin:auto;}
+	#footer .fila td {text-align:center; width:100%;}
+	#footer .fila td span {font-size: 10px; color: #000;}
+
+	#central, #central_datos, #tablaBody, #tablaCompania {width:100%; margin: 0px 0px 0px 0px;} 
+
+	#central tr|{
+		border: 10; 
+	}
+
+	#central td|{
+		border: 0; 
+	}
+
+	.styleLable{
+		font-size: 20px;
+	}
+
+	#table_container_1{
+	  margin-top:200px; width:100%;
+	  margin-left: -40px;
+
+	}
+	.style_td{
+		text-align: right;
+	}
+
+	td, th{
+	  padding: 3px;
+	}
